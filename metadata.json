@@ -1,0 +1,6 @@
+{
+  "name": "LUANDA — Simulador de Vida",
+  "description": "Jogo de mundo aberto em 3D inspirado na cidade de Luanda, Angola. Crie o seu personagem, explore bairros, estude, trabalhe, conduza veículos e construa a sua vida em kwanzas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
